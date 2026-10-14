@@ -26,22 +26,44 @@ sudo -u postgres psql -f Script.sql
 
 - SELECT * FROM VIVERO;
 
+![IMAGE](Capturas/Vivero.png)
+
 - SELECT * FROM PRODUCTO;
+
+![IMAGE](Capturas/Producto.png)
 
 - SELECT * FROM CLIENTE;
 
+![IMAGE](Capturas/Cliente.png)
+
 - SELECT * FROM EMPLEADO;
+
+![IMAGE](Capturas/Empleado.png)
 
 - SELECT * FROM TAREA;
 
+![IMAGE](Capturas/Tarea.png)
+
 - SELECT * FROM ZONA;
+
+![IMAGE](Capturas/Zona.png)
 
 - SELECT * FROM MIEMBRO_PLUS;
 
+![IMAGE](Capturas/Miembro_Plus.png)
+
 - SELECT * FROM STOCK_ZONA;
+
+![IMAGE](Capturas/Stock_Zona.png)
 
 - SELECT * FROM PEDIDO;
 
+![IMAGE](Capturas/Pedido.png)
+
 - SELECT * FROM COMPONENTE_PEDIDO;
 
+![IMAGE](Capturas/Componente_Pedido.png)
+
 - SELECT * FROM TAREA_EMPLEADO_ZONA;
+
+![IMAGE](Capturas/Tarea_Empleado_Zona.png)
