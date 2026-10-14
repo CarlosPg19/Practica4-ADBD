@@ -3,6 +3,9 @@
 
 ---
 
+## Imagen Modelo Relacional
+![Diagrama Modelo Relacional](./Modelo_Relacional.png)
+
 ## Descripción del Proyecto
 
 Este repositorio contiene el diseño relacional e implementación física en PostgreSQL para la gestión de la red de viveros **Tajinaste S.A.**. 
